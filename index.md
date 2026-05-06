@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="3QeEwS-jaVzpwYpaOlHECTT7w3MDrchYZoTEMtAd9bE" />
+
 # Nādevā: Divine Sound
 
 **Nādevā** is a modern music streaming application built on a hybrid cloud architecture, utilizing **Firebase** for secure metadata management and **Oracle Cloud** for high-bandwidth audio delivery.
@@ -12,4 +14,3 @@
 ---
 *Created as part of an academic technical project.*
 
-<meta name="google-site-verification" content="3QeEwS-jaVzpwYpaOlHECTT7w3MDrchYZoTEMtAd9bE" />
