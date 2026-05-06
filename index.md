@@ -6,6 +6,8 @@
 * **High-Fidelity Streaming:** Powered by Oracle's 10TB free egress tier.
 * **Secure Access:** Authentication handled via Google Developer Program standards.
 * **Ancient Inspiration:** Conceptually rooted in the ancient Hindu manuscripts of Nāda (Sacred Sound).
-
+### Project Documentation
+* [Privacy Policy](https://maheshnair46.github.io/cloudmusicsys/privacy)
+* [Terms of Service](https://maheshnair46.github.io/cloudmusicsys/terms)
 ---
 *Created as part of an academic technical project.*
