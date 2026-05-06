@@ -7,7 +7,7 @@
 * **Secure Access:** Authentication handled via Google Developer Program standards.
 * **Ancient Inspiration:** Conceptually rooted in the ancient Hindu manuscripts of Nāda (Sacred Sound).
 ### Project Documentation
-* [Privacy Policy](https://maheshnair46.github.io/cloudmusicsys/privacy)
-* [Terms of Service](https://maheshnair46.github.io/cloudmusicsys/terms)
+* [Privacy Policy](./privacy)
+* [Terms of Service](./terms)
 ---
 *Created as part of an academic technical project.*
