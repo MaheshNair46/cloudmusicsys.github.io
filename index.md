@@ -1,4 +1,7 @@
-<meta name="google-site-verification" content="R-FyWGxRtcIUea0zV3FxhKmvHookm09uX7GN70FM8Dg" />
+<head>
+  <meta name="google-site-verification" content="R-FyWGxRtcIUea0zV3FxhKmvHookm09uX7GN70FM8Dg" />
+</head>
+
 
 # Nādevā: Divine Sound
 
