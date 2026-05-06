@@ -1,7 +1,4 @@
----
-layout: default
-title: Privacy Policy
----
+
 # Privacy Policy for Nādevā
 
 **Last Updated: May 2026**
