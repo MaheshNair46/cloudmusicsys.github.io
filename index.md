@@ -18,5 +18,5 @@ title: "Nādevā: Divine Sound"
 * [Privacy Policy](./privacy)
 * [Terms of Service](./terms)
 ---
-*Created as part of an academic technical project.*
+*Created as part of an academic technical project.to try * 
 
