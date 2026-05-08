@@ -1,7 +1,10 @@
+---
+layout: default
+title: "Nādevā: Divine Sound"
+---
 <head>
   <meta name="google-site-verification" content="3QeEwS-jaVzpwYpaOlHECTT7w3MDrchYZoTEMtAd9bE" />
 </head>
-
 
 # Nādevā: Divine Sound
 
